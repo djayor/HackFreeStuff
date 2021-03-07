@@ -30,6 +30,7 @@ instagram_username: HackFreeStuff
 facebook_username: HackFreeStuff
 #youtube_username: UC047ndqrBKrE7zZr-c5prew
 # github_username:  djayor
+BASE_PATH : /HackFreeStuff
 
 # Build settings
 theme: minima

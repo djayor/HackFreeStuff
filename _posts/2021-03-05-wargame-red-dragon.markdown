@@ -13,5 +13,6 @@ Para poder adicionar à biblioteca de jogos, apenas teras que aceder ao [Link][d
 
 
 ![image game](/images/WargameRedDragon.jpg)
+![image game]({{ BASE_PATH }}/assets/images/WargameRedDragon.jpg)
 
 [direct-link]: https://www.epicgames.com/store/en-US/p/wargame-red-dragon
