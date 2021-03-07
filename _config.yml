@@ -19,14 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hack Free Stuff
-email: your-email@example.com
+#email: your-email@example.com
 #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
   No bait, fake news or catch scams!
 baseurl: "HackFreeStuff" # the subpath of your site, e.g. /HackFreeStuff CHANGE Before upload to Github
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MrMello
-github_username:  djayor
+twitter_username: HackFreeStuff
+instagram_username: HackFreeStuff
+facebook_username: HackFreeStuff
+#youtube_username: UC047ndqrBKrE7zZr-c5prew
+# github_username:  djayor
 
 # Build settings
 theme: minima
