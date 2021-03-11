@@ -9,7 +9,7 @@ categories: free pc game
 To be able to add to the game library, you only have to access the [Link][direct-link].
 
 🇵🇹 Disponivel entre o dia 11 a 18 de Março, estará disponivel para PC o jogo "Surviving Mars" na loja Epic Games.
-Para poder adicionar à biblioteca de jogos, apenas teras que aceder ao [Link][direct-link].
+Para poder adicionar à biblioteca de jogos, apenas terás que aceder ao [Link][direct-link].
 
 <!--
 ![image game](/images/WargameRedDragon.jpg)
