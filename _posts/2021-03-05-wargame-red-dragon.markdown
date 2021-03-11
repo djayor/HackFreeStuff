@@ -11,9 +11,11 @@ To be able to add to the game library, you only have to access the [Link][direct
 🇵🇹 Disponivel entre o dia 4 e 11 de Março, estará disponivel para PC o jogo "Wargame: Red Dragon" na loja Epic Games.
 Para poder adicionar à biblioteca de jogos, apenas teras que aceder ao [Link][direct-link].
 
-
+<!--
 ![image game](/images/WargameRedDragon.jpg)
 ![image game]({{ BASE_PATH }}/assets/images/WargameRedDragon.jpg)
+-->
+
 <img src="{{ site.BASE_PATH }}/images/WargameRedDragon.jpg">
 
 [direct-link]: https://www.epicgames.com/store/en-US/p/wargame-red-dragon
