@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "[Free][PC][Game] Gray Cat"
+date:   2021-03-15 14:40:03 +0100
+categories: free pc game
+---
+
+🇬🇧 Available in March 15th for limited time, the game "Gray Cat" will be available for PC in the IndiGala store.
+To be able to add to the game library, you only have to access the [Link][direct-link].
+
+🇵🇹 Disponivel a partir do dia 15 de Março, está disponivel o jogo "Gray Cat" para PC na loja IndiGala.
+Para poder adicionar à biblioteca de jogos, apenas terás que aceder ao [Link][direct-link].
+
+<!--
+![image game](/images/WargameRedDragon.jpg)
+![image game]({{ BASE_PATH }}/assets/images/WargameRedDragon.jpg)
+-->
+
+<img src="{{ site.BASE_PATH }}/images/GrayCat.jpg">
+
+[direct-link]: https://freebies.indiegala.com/gray-cat?utm_source=mail_t&utm_medium=email&utm_campaign=Gloria_Victis_Crackerjack_20210315
