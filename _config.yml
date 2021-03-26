@@ -33,8 +33,7 @@ facebook_username: HackFreeStuff
 BASE_PATH : /HackFreeStuff
 
 # Build settings
-theme: jekyll-theme-modernist
-#minima
+theme: minima
 plugins:
   - jekyll-feed
 
