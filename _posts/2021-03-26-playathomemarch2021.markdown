@@ -3,6 +3,7 @@ layout: post
 title:  "[Free][PS4][Game] Play at Home (bundle)"
 date:   2021-03-26 12:35:03 +0100
 categories: free ps4 game
+permalink: /:categories
 ---
 
 🇬🇧 Available between March 25th and April 22th, a pack of games from "Play at Home" campaign will be available for PS4 in the Playstation store.
