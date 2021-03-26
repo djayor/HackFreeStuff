@@ -36,6 +36,10 @@ BASE_PATH : /HackFreeStuff
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 8
+paginate_path: "/blog/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
