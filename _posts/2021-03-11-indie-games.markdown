@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Free][PC][Game] Indie Games Pack"
+title:  "[Free][PC][Game] Indie Games Pack (bundle)"
 date:   2021-03-11 17:30:03 +0100
 categories: free pc game
 ---
