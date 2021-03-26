@@ -13,30 +13,39 @@ Para os adicionar à biblioteca de jogos, apenas terás que aceder ao [Link][dir
 
 Package list:
 - ABZÛ
+
 <img src="{{ site.BASE_PATH }}/images/abzu.jpg">
 
 - Astro Bot rescue mission
+
 <img src="{{ site.BASE_PATH }}/images/astrobot-rescue-mission.jpg">
 
 - Enter the Gungeon
+
 <img src="{{ site.BASE_PATH }}/images/enter-the-gungeon.jpg">
 
 - Moss
+
 <img src="{{ site.BASE_PATH }}/images/moss.jpg">
 
 - Paper Beast
+
 <img src="{{ site.BASE_PATH }}/images/paper-beast.jpg">
 
 - Rez Infinite
+
 <img src="{{ site.BASE_PATH }}/images/rez-infinite.jpg">
 
 - Subnautica
+
 <img src="{{ site.BASE_PATH }}/images/subnautica.jpg">
 
 - The Witness
+
 <img src="{{ site.BASE_PATH }}/images/the-witness.jpg">
 
 - Thumper
+
 <img src="{{ site.BASE_PATH }}/images/thumper.jpg">
 
 
